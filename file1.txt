@@ -1,3 +1,8 @@
 this is a new file
 i made changes to this file
+
+
+thanks master, this is user2 and i have added this line all good?
+
 waiting for user2's input
+
